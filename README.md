@@ -10,7 +10,6 @@ A Retrieval-Augmented Generation (RAG) application: a React frontend and FastAPI
 .
 ├── backend/          # FastAPI app, RAG pipeline, sample documents
 ├── frontend/         # React UI
-├── report.md         # Project report
 └── README.md
 ```
 
