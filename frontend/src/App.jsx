@@ -128,7 +128,7 @@ export default function App() {
               🤖
             </div>
             <div>
-              <h1 className="text-white font-semibold text-sm leading-tight">Support AI</h1>
+              <h1 className="text-white font-semibold text-sm leading-tight">Query Hub</h1>
               <div className="flex items-center gap-1.5">
                 <span className="w-1.5 h-1.5 bg-green-400 rounded-full" />
                 <span className="text-white/45 text-[11px]">Online · RAG powered</span>
