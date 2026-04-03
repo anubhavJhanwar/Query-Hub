@@ -1,0 +1,25 @@
+Company Policies - Customer Support Knowledge Base
+
+Return Policy:
+We accept returns within 30 days of purchase for unused items in original packaging. To initiate a return, log into your account and go to Orders > Return Item. Once we receive the item, a refund will be issued within 5-7 business days. Shipping costs for returns are covered by the customer unless the item was defective or incorrectly shipped.
+
+Privacy Policy Summary:
+We collect only the data necessary to provide our services, including your name, email, and payment information. We do not sell or share your personal data with third parties for marketing purposes. You have the right to request deletion of your data at any time by contacting privacy@example.com.
+
+Account Termination Policy:
+Accounts that violate our Terms of Service may be suspended or permanently terminated without notice. Users who wish to delete their own account can do so from Settings > Account > Delete Account. Deleted accounts cannot be recovered after 30 days.
+
+Service Level Agreement (SLA):
+We guarantee 99.9% uptime for all paid plans. In the event of downtime exceeding this threshold, affected customers will receive service credits proportional to the outage duration. Credits are applied automatically to the next billing cycle.
+
+Acceptable Use Policy:
+Our platform may not be used for illegal activities, spamming, harassment, or distribution of malware. Violations will result in immediate account suspension. We reserve the right to report illegal activity to the appropriate authorities.
+
+Discount and Coupon Policy:
+Discount codes must be applied at checkout and cannot be applied retroactively. Only one discount code can be used per order. Discounts are not applicable on already-discounted items or subscription renewals unless explicitly stated.
+
+Support Response Times:
+- Critical issues (service down): Response within 1 hour
+- High priority (major feature broken): Response within 4 hours
+- Medium priority (minor bug): Response within 1 business day
+- Low priority (general questions): Response within 2 business days

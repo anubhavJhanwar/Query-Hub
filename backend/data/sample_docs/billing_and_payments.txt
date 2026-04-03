@@ -1,0 +1,43 @@
+Billing and Payments - Customer Support Knowledge Base
+
+How do I view my invoices?
+To view your invoices, go to Account Settings > Billing > Invoice History. All invoices are listed with date, amount, and status. You can download any invoice as a PDF by clicking the Download button next to it. Invoices are also automatically emailed to your registered email address after each payment.
+
+How do I update my payment method?
+To update your payment method, go to Account Settings > Billing > Payment Methods. Click Add New Card to add a credit or debit card, or click Update next to an existing card. You can also add PayPal as a payment method. Changes take effect on your next billing cycle.
+
+What payment methods do you accept?
+We accept Visa, MasterCard, American Express, Discover, PayPal, and bank transfers (ACH). All payments are processed securely through Stripe. We do not store your full card details on our servers. For Enterprise plans, we also accept wire transfers and purchase orders.
+
+How do I cancel my subscription?
+To cancel your subscription, go to Account Settings > Subscription > Cancel Plan. Your access will continue until the end of the current billing period. You will not be charged again after cancellation. No refunds are issued for partial months. You can reactivate your subscription at any time before the end of the billing period.
+
+Can I get a refund?
+Yes. We offer a 30-day money-back guarantee on all plans. To request a refund, contact billing@example.com with your account email and order number within 30 days of purchase. Refunds are processed within 5-7 business days back to your original payment method. After 30 days, refunds are not available except in cases of billing errors.
+
+What happens if my payment fails?
+If a payment fails, we will retry it automatically after 3 days and again after 7 days. You will receive an email notification each time a payment attempt fails. If payment is not resolved within 14 days, your account will be temporarily suspended. To resolve a failed payment, update your payment method in Account Settings > Billing > Payment Methods.
+
+How do I upgrade my plan?
+To upgrade your plan, go to Account Settings > Subscription > Change Plan and select the plan you want. Upgrades take effect immediately and are prorated — you will only be charged the difference for the remaining days in your billing cycle.
+
+How do I downgrade my plan?
+To downgrade your plan, go to Account Settings > Subscription > Change Plan and select a lower tier. Downgrades take effect at the start of your next billing cycle. You will retain access to your current plan features until then.
+
+What is the difference between monthly and annual billing?
+Monthly billing charges you each month and can be cancelled at any time. Annual billing charges you once per year at a discounted rate (typically 20% savings compared to monthly). Annual plans can be cancelled but are non-refundable after the 30-day money-back guarantee period.
+
+How do I apply a discount or coupon code?
+Discount codes must be applied at checkout when purchasing or upgrading a plan. Go to Account Settings > Subscription > Change Plan, select your plan, and enter the coupon code in the Promo Code field before completing payment. Coupon codes cannot be applied retroactively to past payments.
+
+What is a billing dispute?
+A billing dispute is when you believe you have been incorrectly charged. To dispute a charge, contact billing@example.com within 60 days of the charge with your invoice number and a description of the issue. We will investigate and respond within 3 business days. Approved disputes are refunded within 5-7 business days.
+
+Do you offer student or nonprofit discounts?
+Yes. We offer a 50% discount for verified students and a 30% discount for registered nonprofit organizations. To apply, contact support@example.com with proof of eligibility (student ID or nonprofit registration). Discounts are applied manually by our team within 2 business days.
+
+How do I get a receipt for my payment?
+Receipts are automatically emailed to your registered email address after each successful payment. You can also download receipts from Account Settings > Billing > Invoice History. For custom receipts with company details, contact billing@example.com.
+
+What currencies do you support?
+We currently support payments in USD, EUR, GBP, CAD, and AUD. Your currency is automatically detected based on your location. To change your billing currency, contact billing@example.com. Note that currency changes may affect your pricing.

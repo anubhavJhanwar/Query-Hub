@@ -1,0 +1,55 @@
+Support Channels and Working Hours - Customer Support Knowledge Base
+
+Available Support Channels:
+We offer multiple support channels to assist you:
+1. Email Support: support@example.com — available 24/7, response within 1-2 business days
+2. Live Chat: Available on our website at the bottom-right corner, Mon-Fri 9am-6pm EST
+3. Phone Support: 1-800-555-0100, Mon-Fri 9am-6pm EST
+4. Help Center / Knowledge Base: docs.example.com — available 24/7 with self-service articles
+5. Community Forum: community.example.com — peer support and product discussions
+6. Twitter/X: @ExampleSupport — for quick questions and status updates
+
+Working Hours:
+Our support team is available Monday to Friday, 9am to 6pm EST (Eastern Standard Time).
+For urgent issues outside working hours, please email support@example.com and mark the subject as URGENT.
+Critical system outages are monitored 24/7 by our on-call engineering team.
+
+Outside Working Hours:
+Outside of working hours, you can:
+- Submit a ticket via email at support@example.com
+- Browse our Help Center at docs.example.com for self-service answers
+- Check our status page at status.example.com for any ongoing incidents
+We will follow up on all tickets the next business day.
+
+Can I contact you via email?
+Yes. You can reach us at support@example.com at any time. For billing issues, use billing@example.com. For privacy-related requests, use privacy@example.com. We respond to all emails within 1-2 business days.
+
+Is there a live chat option?
+Yes. Live chat is available on our website. Look for the chat icon at the bottom-right corner of any page. Live chat is available Monday to Friday, 9am to 6pm EST. Outside these hours, you can leave a message and we will respond the next business day.
+
+Do you have a phone number for support?
+Yes. You can call us at 1-800-555-0100, Monday to Friday, 9am to 6pm EST. For international customers, please use our email support at support@example.com.
+
+What if I don't receive the password reset link?
+If you do not receive the password reset link within 5 minutes, please check your spam or junk folder. Make sure you entered the correct registered email address. If the issue persists, contact support@example.com with your account email and we will manually reset your password.
+
+How long does the password reset link take to arrive?
+The password reset link is sent within 5 minutes of your request. If you do not receive it, check your spam folder. The link expires after 24 hours. If it has expired, you can request a new one from the login page.
+
+Can I reset my password without my registered email?
+If you no longer have access to your registered email address, contact support@example.com with your account details and a government-issued ID for identity verification. Our team will assist you within 1-2 business days.
+
+How do I check the company website for working hours?
+Our working hours are Monday to Friday, 9am to 6pm EST. You can always find the latest support hours on our website at example.com/support or in our Help Center at docs.example.com.
+
+What happens after I submit a support ticket?
+After submitting a support ticket via email, you will receive an automatic confirmation email with a ticket number. Our team will review your request and respond based on priority: critical issues within 1 hour, high priority within 4 hours, medium priority within 1 business day, and general questions within 2 business days.
+
+How do I escalate an issue?
+If your issue has not been resolved within the expected response time, you can escalate by replying to your existing ticket and adding ESCALATE to the subject line. You can also call us at 1-800-555-0100 during business hours and reference your ticket number.
+
+Is there a community forum?
+Yes. We have a community forum at community.example.com where you can ask questions, share tips, and connect with other users. Many common questions are already answered there by our community and support team.
+
+What is the difference between email and live chat support?
+Live chat provides real-time responses during business hours (Mon-Fri, 9am-6pm EST) and is best for quick questions. Email support is available 24/7 and is better for detailed issues, billing disputes, or when you need to attach files or screenshots. Both channels are handled by the same support team.

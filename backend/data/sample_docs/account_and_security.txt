@@ -1,0 +1,40 @@
+Account Management and Security - Customer Support Knowledge Base
+
+How do I change my email address?
+To change your registered email address, go to Account Settings > Profile > Edit Email. Enter your new email address and click Save. You will receive a verification link at the new email address. Click the link to confirm the change. Your old email will receive a notification about the change for security purposes.
+
+How do I change my username?
+To change your username, go to Account Settings > Profile > Edit Username. Usernames must be between 3-20 characters and can only contain letters, numbers, and underscores. Each username can only be used once across the platform.
+
+How do I delete my account?
+To permanently delete your account, go to Account Settings > Account > Delete Account. You will be asked to confirm by entering your password. Deleted accounts are recoverable within 30 days by contacting support@example.com. After 30 days, all data is permanently erased and cannot be recovered.
+
+What happens to my data when I delete my account?
+When you delete your account, all your personal data, files, and settings are scheduled for permanent deletion. You have 30 days to recover your account by contacting support@example.com. After 30 days, all data is permanently and irreversibly deleted in compliance with GDPR and CCPA regulations.
+
+How do I enable two-factor authentication?
+To enable two-factor authentication (2FA), go to Account Settings > Security > Enable 2FA. You can use an authenticator app such as Google Authenticator or Authy, or receive SMS codes to your phone number. We strongly recommend using an authenticator app for better security.
+
+What do I do if I lose access to my 2FA device?
+If you lose access to your two-factor authentication device, contact support@example.com with your account email and a government-issued ID for identity verification. Our team will manually disable 2FA on your account within 1-2 business days so you can regain access.
+
+How do I view my login history?
+You can view your recent login history by going to Account Settings > Security > Login Activity. This shows the date, time, IP address, and device for each login. If you see any suspicious activity, immediately change your password and contact support@example.com.
+
+How do I log out of all devices?
+To log out of all active sessions, go to Account Settings > Security > Active Sessions > Log Out All Devices. This will immediately end all sessions except your current one. Use this if you suspect unauthorized access to your account.
+
+How do I update my profile picture?
+To update your profile picture, go to Account Settings > Profile > Change Photo. You can upload a JPG, PNG, or GIF file up to 5MB. Profile pictures are visible to other users on the platform.
+
+How do I manage notification preferences?
+To manage your notification preferences, go to Account Settings > Notifications. You can toggle email notifications, push notifications, and in-app alerts for different event types including new messages, billing events, security alerts, and product updates.
+
+How do I connect a social account for login?
+To connect a Google or GitHub account for single sign-on, go to Account Settings > Security > Connected Accounts. Click Connect next to the provider you want to add. Once connected, you can log in using that provider without entering your password.
+
+What should I do if I think my account was hacked?
+If you believe your account has been compromised, immediately change your password from Account Settings > Security > Change Password. Enable two-factor authentication if not already enabled. Review your login history for suspicious activity. Contact support@example.com immediately with the subject line ACCOUNT COMPROMISED for priority assistance.
+
+How do I transfer my account to someone else?
+Account ownership transfers are handled by our support team. Contact support@example.com with your account details and the new owner's email address. Both parties must verify their identity. Account transfers are processed within 3-5 business days.

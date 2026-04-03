@@ -1,0 +1,49 @@
+Technical Troubleshooting - Customer Support Knowledge Base
+
+Why is the app not loading?
+If the application is not loading, try these steps in order:
+1. Hard refresh your browser: press Ctrl+Shift+R (Windows) or Cmd+Shift+R (Mac)
+2. Clear your browser cache and cookies from browser Settings > Privacy > Clear Browsing Data
+3. Try a different browser such as Chrome, Firefox, or Edge
+4. Disable browser extensions or try in Incognito/Private mode
+5. Check our status page at status.example.com for any ongoing incidents
+6. If the issue persists, contact support@example.com with your browser version and OS
+
+Why is the app running slowly?
+Slow performance can be caused by a slow internet connection, too many browser tabs open, or a large amount of data in your account. Try closing other tabs, clearing your browser cache, or switching to a wired internet connection. If the issue persists, contact support with your account details.
+
+How do I clear my browser cache?
+To clear your browser cache in Chrome: go to Settings > Privacy and Security > Clear Browsing Data, select Cached Images and Files, and click Clear Data. In Firefox: go to Settings > Privacy & Security > Cookies and Site Data > Clear Data. In Edge: go to Settings > Privacy > Clear Browsing Data.
+
+Why am I getting an error message?
+If you see an error message, note the error code or message text and contact support@example.com. Common errors include 404 (page not found), 500 (server error), and 403 (access denied). Our team can investigate specific error codes and resolve them quickly.
+
+How do I report a bug?
+To report a bug, go to Help > Report a Bug in the app, or email support@example.com with a description of the issue, steps to reproduce it, your browser and operating system, and any screenshots or screen recordings. We take all bug reports seriously and aim to fix critical bugs within 24 hours.
+
+Why can't I upload a file?
+File upload issues are usually caused by exceeding the file size limit (500MB maximum), using an unsupported file format, or a slow internet connection. Supported formats are PDF, DOCX, XLSX, PNG, JPG, MP4, and ZIP. Try compressing the file or converting it to a supported format.
+
+Why are my emails not being received?
+If you are not receiving emails from us, check your spam or junk folder and mark our emails as not spam. Add support@example.com to your contacts or safe senders list. If you use a corporate email, ask your IT department to whitelist our domain example.com. Contact support if the issue continues.
+
+How do I fix login issues?
+If you cannot log in, first try resetting your password using the Forgot Password link on the login page. If you have two-factor authentication enabled, make sure you are entering the correct code from your authenticator app. Accounts are automatically locked after 5 failed login attempts and unlock after 30 minutes. Contact support@example.com if you are still unable to log in.
+
+Why is my data not syncing?
+Data sync issues can occur due to a poor internet connection or a temporary server issue. Try refreshing the page or logging out and back in. Check our status page at status.example.com for any sync-related incidents. If the issue persists for more than 1 hour, contact support@example.com.
+
+How do I take a screenshot for support?
+On Windows, press Windows+Shift+S to take a screenshot. On Mac, press Cmd+Shift+4. You can also use browser developer tools to capture the full page. Attach screenshots to your support email to help us diagnose the issue faster.
+
+What browsers are supported?
+We support the latest versions of Google Chrome, Mozilla Firefox, Microsoft Edge, and Safari. We recommend using Chrome or Firefox for the best experience. Internet Explorer is not supported. Make sure your browser is up to date for optimal performance and security.
+
+How do I enable desktop notifications?
+To enable desktop notifications, click Allow when prompted by your browser, or go to your browser settings and allow notifications for our website. In Chrome, go to Settings > Privacy and Security > Site Settings > Notifications and add our website to the allowed list.
+
+Why is the video not playing?
+Video playback issues are usually caused by a slow internet connection, an outdated browser, or disabled JavaScript. Try refreshing the page, switching to a different browser, or checking your internet speed. Make sure JavaScript is enabled in your browser settings.
+
+How do I contact technical support?
+For technical issues, email support@example.com with a detailed description of the problem, your browser and operating system, steps to reproduce the issue, and any error messages or screenshots. For critical issues, call 1-800-555-0100 during business hours (Mon-Fri, 9am-6pm EST).

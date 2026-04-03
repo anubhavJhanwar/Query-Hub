@@ -1,0 +1,52 @@
+Product & Technical Support Guide - Customer Support Knowledge Base
+
+Account Management:
+To create a new account, visit our website and click "Sign Up". You will need a valid email address and a password of at least 8 characters. After registration, verify your email by clicking the link sent to your inbox. Unverified accounts are automatically deleted after 7 days.
+
+To update your profile information such as name, phone number, or address, go to Account Settings > Profile > Edit. Changes are saved immediately. Email address changes require re-verification.
+
+Two-Factor Authentication (2FA):
+We strongly recommend enabling 2FA for account security. Go to Account Settings > Security > Enable 2FA. You can use an authenticator app (Google Authenticator, Authy) or receive SMS codes. If you lose access to your 2FA device, contact support with your account email and government-issued ID for manual verification.
+
+Subscription Plans:
+We offer three plans:
+- Basic: $9.99/month — up to 3 users, 10GB storage, email support
+- Professional: $29.99/month — up to 20 users, 100GB storage, priority support
+- Enterprise: Custom pricing — unlimited users, unlimited storage, dedicated account manager
+
+To upgrade or downgrade your plan, go to Account Settings > Subscription > Change Plan. Upgrades take effect immediately and are prorated. Downgrades take effect at the next billing cycle.
+
+Technical Issues - App Not Loading:
+If the application is not loading, try the following steps:
+1. Clear your browser cache and cookies
+2. Try a different browser (Chrome, Firefox, Edge)
+3. Disable browser extensions temporarily
+4. Check our status page at status.example.com for any ongoing incidents
+5. If the issue persists, contact support with your browser version and operating system
+
+Mobile App Issues:
+For mobile app issues, ensure you have the latest version installed. Go to your device's app store and check for updates. If the app crashes on launch, try uninstalling and reinstalling. For Android users, also clear the app cache from device Settings > Apps > Our App > Clear Cache.
+
+Data Export:
+You can export all your data at any time from Account Settings > Privacy > Export Data. The export includes all your files, settings, and activity history in a ZIP archive. Exports are processed within 24 hours and a download link is sent to your email.
+
+Integrations:
+We support integrations with Slack, Microsoft Teams, Google Workspace, Zapier, and over 50 other tools. To set up an integration, go to Settings > Integrations and follow the setup wizard. API access is available on Professional and Enterprise plans. API documentation is available at docs.example.com/api.
+
+Storage and File Limits:
+- Maximum file size per upload: 500MB
+- Supported file types: PDF, DOCX, XLSX, PNG, JPG, MP4, ZIP
+- Files are stored with AES-256 encryption
+- Deleted files are moved to Trash and permanently deleted after 30 days
+
+Notifications:
+To manage email and push notifications, go to Account Settings > Notifications. You can customize alerts for new messages, billing events, security alerts, and product updates. We recommend keeping security alerts enabled at all times.
+
+Troubleshooting Login Issues:
+If you cannot log in, first try resetting your password. If you still cannot access your account, check if your account has been suspended due to a failed payment or policy violation. Accounts locked due to too many failed login attempts are automatically unlocked after 30 minutes. For persistent issues, contact support@example.com with your registered email address.
+
+Billing Disputes:
+If you believe you have been incorrectly charged, contact our billing team at billing@example.com within 60 days of the charge. Include your invoice number and a description of the issue. We will investigate and respond within 3 business days. Approved disputes are refunded within 5-7 business days.
+
+Team Management:
+Account owners can invite team members from Settings > Team > Invite Members. Enter the email addresses of team members and assign roles (Admin, Editor, Viewer). Admins can manage billing and settings. Editors can create and edit content. Viewers have read-only access. Team members can be removed at any time from the same settings page.
