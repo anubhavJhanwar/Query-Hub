@@ -10,7 +10,7 @@ export default function InputBox({ value, onChange, onSend, loading }) {
   };
 
   return (
-    <div className="flex items-center gap-2 bg-black/30 border border-white/15 rounded-full px-4 py-2.5 focus-within:border-indigo-400/60 focus-within:shadow-lg focus-within:shadow-indigo-500/10 transition-all">
+    <div className="flex items-center gap-2 bg-slate-700/50 border border-slate-600/40 rounded-full px-4 py-2.5 focus-within:border-teal-400/60 focus-within:shadow-lg focus-within:shadow-teal-500/10 transition-all">
       <input
         ref={ref}
         type="text"
@@ -24,7 +24,7 @@ export default function InputBox({ value, onChange, onSend, loading }) {
       <button
         onClick={onSend}
         disabled={loading || !value.trim()}
-        className="w-8 h-8 flex items-center justify-center rounded-full bg-gradient-to-br from-indigo-500 to-purple-600 disabled:opacity-30 hover:scale-110 active:scale-95 transition-transform shadow-md shadow-indigo-500/30"
+        className="w-8 h-8 flex items-center justify-center rounded-full bg-gradient-to-br from-teal-500 to-teal-600 disabled:opacity-30 hover:scale-110 active:scale-95 transition-transform shadow-md shadow-teal-500/30"
       >
         {loading ? (
           <svg className="w-3.5 h-3.5 animate-spin text-white" fill="none" viewBox="0 0 24 24">

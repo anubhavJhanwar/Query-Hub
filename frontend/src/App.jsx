@@ -108,23 +108,23 @@ export default function App() {
   };
 
   return (
-    <div className="min-h-screen w-full bg-gradient-to-br from-indigo-600 via-purple-600 to-pink-500 flex items-center justify-center p-4">
+    <div className="min-h-screen w-full bg-gradient-to-br from-slate-900 via-slate-800 to-slate-900 flex items-center justify-center p-4">
 
       {/* Ambient blobs */}
       <div className="fixed inset-0 overflow-hidden pointer-events-none">
-        <div className="absolute -top-40 -left-40 w-96 h-96 bg-indigo-400/20 rounded-full blur-3xl" />
-        <div className="absolute -bottom-40 -right-40 w-96 h-96 bg-pink-400/20 rounded-full blur-3xl" />
+        <div className="absolute -top-40 -left-40 w-96 h-96 bg-teal-500/10 rounded-full blur-3xl" />
+        <div className="absolute -bottom-40 -right-40 w-96 h-96 bg-amber-500/10 rounded-full blur-3xl" />
       </div>
 
       {/* Main card */}
       <div
-        className="relative w-full max-w-md bg-white/10 backdrop-blur-xl border border-white/20 rounded-3xl shadow-2xl shadow-black/30 flex flex-col overflow-hidden animate-fade-in"
+        className="relative w-full max-w-md bg-slate-800/80 backdrop-blur-xl border border-slate-600/40 rounded-3xl shadow-2xl shadow-black/50 flex flex-col overflow-hidden animate-fade-in"
         style={{ height: chatMode ? "640px" : "auto" }}
       >
         {/* ── HEADER ── */}
         <div className="flex items-center justify-between px-5 pt-5 pb-3 flex-shrink-0">
           <div className="flex items-center gap-3">
-            <div className="w-9 h-9 rounded-2xl bg-gradient-to-br from-indigo-400 to-purple-500 flex items-center justify-center shadow-lg shadow-indigo-500/30 text-base">
+            <div className="w-9 h-9 rounded-2xl bg-gradient-to-br from-teal-400 to-teal-600 flex items-center justify-center shadow-lg shadow-teal-500/30 text-base">
               🤖
             </div>
             <div>
@@ -145,7 +145,7 @@ export default function App() {
                   onClick={() => handleConfigSwitch(key)}
                   className={`text-[10px] px-2.5 py-1 rounded-full transition-all font-medium whitespace-nowrap ${
                     activeConfig === key
-                      ? "bg-gradient-to-r from-indigo-500 to-purple-500 text-white shadow-sm"
+                      ? "bg-gradient-to-r from-teal-500 to-teal-600 text-white shadow-sm"
                       : "text-white/40 hover:text-white/70"
                   }`}
                 >
@@ -220,7 +220,7 @@ export default function App() {
             </div>
 
             <div onClick={() => startChat()}
-              className="flex items-center gap-3 bg-black/30 border border-white/15 rounded-full px-4 py-2.5 cursor-text hover:border-indigo-400/50 transition-all">
+              className="flex items-center gap-3 bg-slate-700/50 border border-slate-600/40 rounded-full px-4 py-2.5 cursor-text hover:border-teal-400/50 transition-all">
               <svg className="w-3.5 h-3.5 text-white/30 flex-shrink-0" fill="none" stroke="currentColor" strokeWidth="2" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/>
               </svg>

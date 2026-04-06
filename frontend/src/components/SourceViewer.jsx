@@ -20,7 +20,7 @@ export default function SourceViewer({ sources, confidences }) {
             const conf = confidences?.[i];
             const color = conf >= 70 ? "text-green-400" : conf >= 40 ? "text-yellow-400" : "text-red-400";
             return (
-              <div key={i} className="text-xs bg-white/5 border border-white/10 rounded-xl p-3">
+              <div key={i} className="text-xs bg-slate-700/50 border border-slate-600/40 rounded-xl p-3">
                 <div className="flex items-center justify-between mb-1.5">
                   <span className="text-white/30 font-mono">Source {i + 1}</span>
                   {conf !== undefined && (

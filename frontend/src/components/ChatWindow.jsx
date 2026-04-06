@@ -16,13 +16,13 @@ export default function ChatWindow({ messages, loading, onFollowup }) {
 
       {loading && (
         <div className="flex justify-start animate-fade-in">
-          <div className="bg-white/10 backdrop-blur-sm border border-white/15 rounded-2xl rounded-bl-sm px-4 py-3">
+          <div className="bg-slate-700/60 backdrop-blur-sm border border-slate-600/40 rounded-2xl rounded-bl-sm px-4 py-3">
             <div className="flex items-center gap-1.5">
               <span className="text-xs text-white/40 mr-1">Thinking</span>
               {[0, 1, 2].map((i) => (
                 <span
                   key={i}
-                  className="w-1.5 h-1.5 bg-indigo-400 rounded-full animate-bounce-dot"
+                  className="w-1.5 h-1.5 bg-teal-400 rounded-full animate-bounce-dot"
                   style={{ animationDelay: `${i * 0.15}s` }}
                 />
               ))}

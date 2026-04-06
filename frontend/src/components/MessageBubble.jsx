@@ -11,8 +11,8 @@ export default function MessageBubble({ role, text, responseTime, configUsed, ll
         {/* Bubble */}
         <div className={`px-4 py-3 rounded-2xl text-sm leading-relaxed whitespace-pre-wrap ${
           isUser
-            ? "bg-gradient-to-br from-indigo-500 to-purple-600 text-white rounded-br-sm shadow-lg shadow-indigo-500/20"
-            : "bg-white/10 backdrop-blur-sm border border-white/15 text-white/90 rounded-bl-sm"
+            ? "bg-gradient-to-br from-teal-500 to-teal-700 text-white rounded-br-sm shadow-lg shadow-teal-500/20"
+            : "bg-slate-700/60 backdrop-blur-sm border border-slate-600/40 text-slate-100 rounded-bl-sm"
         }`}>
           {text}
         </div>
